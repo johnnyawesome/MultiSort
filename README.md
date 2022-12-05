@@ -17,7 +17,3 @@ Also, I have a separate projects of all of these sorting algorithms, in case you
 - [SelectionSort project](https://github.com/johnnyawesome/SelectionSort)
 - [InsertionSort project](https://github.com/johnnyawesome/InsertionSort)
 
-## More information
-
-I blogged about this project and how it's code works: Read up on [BubbleSort](https://breaksome.tech/sorting-algorithm-coding-bubblesort-in-p5js/) or check out [this post](https://breaksome.tech/sorting-algorithm:-selectionsort-and-insertionsort/) about [SelectionSort](https://breaksome.tech/sorting-algorithm:-selectionsort-and-insertionsort/) and [InsertionSort](https://breaksome.tech/sorting-algorithm:-selectionsort-and-insertionsort/).
-It's a nice step-by-step tutorial that walks you through the projects and explains the whole code one bit at the time.
