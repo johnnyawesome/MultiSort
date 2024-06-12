@@ -1,5 +1,5 @@
 # MultiSort
-Visual version of BubbleSort, SelectionSort and InsertionSort sorting algorithms written in P5JS.
+Visual version of [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort), [SelectionSort](https://en.wikipedia.org/wiki/Selection_sort) and [InsertionSort](https://en.wikipedia.org/wiki/Insertion_sort) sorting algorithms written in [P5JS](https://p5js.org/).
 
 ![MultiSort](https://raw.githubusercontent.com/johnnyawesome/MultiSort/master/MultiSort/DemoImages/MultiSort.gif)
 
@@ -7,9 +7,9 @@ MultiSort is a collection of three [sorting algorithms](https://en.wikipedia.org
 
 The supported sorting algorithms are:
 
-- BubbleSort
-- SelectionSort
-- Insertion Sort
+- [BubbleSort](https://en.wikipedia.org/wiki/Bubble_sort)
+- [SelectionSort](https://en.wikipedia.org/wiki/Selection_sort)
+- [InsertionSort](https://en.wikipedia.org/wiki/Insertion_sort)
 
 Also, I have a separate projects of all of these sorting algorithms, in case you need just one:
 
